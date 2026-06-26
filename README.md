@@ -178,7 +178,6 @@ JWT_EXPIRES_IN=1d
 | `JWT_SECRET` | ✅ | Secret for signing JWTs (≥32 chars) | `super_long_secret...` |
 | `JWT_EXPIRES_IN` | ✅ | JWT expiry time | `1d`, `7d`, `2h` |
 
-> ⚠️ **Never commit your `.env` file.** It is already listed in `.gitignore`.
 
 ---
 
